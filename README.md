@@ -9,6 +9,7 @@ There are 3 exercises that go with the first sections of Google's Python class. 
 * string1.py -- complete the string functions in string1.py, based on the material in the Python Strings section 
 * string2.py -- string related additional exercises 
 * list1.py -- complete the list functions in list1.py, based on Python Lists and Python Sorting sections
+* list2.py -- list related additional exercises
 
 
 
